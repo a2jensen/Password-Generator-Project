@@ -13,7 +13,7 @@ password = ''
 for x in range(16):
     password += random.choice(chars)
 
-# Prints out password that was randomly created
+# Prints out password that was randomly
 print(password)
 
 
